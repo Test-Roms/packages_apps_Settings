@@ -40,11 +40,12 @@
 
     <!-- Media output switcher -->
     <Preference
-        android:key="media_output"
-        android:title="@string/media_output_title"
+        android:icon="@drawable/ic_media_output"
         android:dialogTitle="@string/media_output_title"
+        android:key="media_output"
         android:order="-175"
-        settings:controller="com.android.settings.sound.MediaOutputPreferenceController"/>
+        android:title="@string/media_output_title"
+        settings:controller="com.android.settings.sound.MediaOutputPreferenceController" />
 
     <!-- Call volume -->
     <com.android.settings.notification.VolumeSeekBarPreference
