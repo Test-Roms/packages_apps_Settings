@@ -29,4 +29,8 @@
     <string name="color_mode_balance_green">Green strength</string>
     <string name="color_mode_balance_blue">Blue strength</string>
     <string name="keywords_color_balance">color, color balance, color correction, red, green, blue, LiveDisplay</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, use the volume keys to fast forward and rewind a music track</string>
 </resources>

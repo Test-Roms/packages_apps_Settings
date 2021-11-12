@@ -20,4 +20,8 @@
     <string name="color_mode_balance_green">Nível de verde</string>
     <string name="color_mode_balance_blue">Nível de azul</string>
     <string name="keywords_color_balance">cor, balanço de cores, correção de cores, vermelho, verde, azul, LiveDisplay</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Controle de reprodução</string>
+    <string name="volume_button_music_control_summary">Quando a tela estiver desligada, use as teclas de volume para avançar e retroceder uma música</string>
 </resources>
